@@ -1,7 +1,5 @@
 <h2> Hi there 👋, I'm CazandoCrypto! </h2>
 
-![Snake animation](https://github.com/cazandocrypto/cazandocrypto/blob/output/github-contribution-grid-snake.svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cazandocrypto)](https://github.com/cazandocrypto/github-readme-stats)
     
 [![CazandoCrypto YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA](https://www.youtube.com/cazandocrypto))
@@ -16,6 +14,8 @@ I'm here to help the world learn to code, solve as many CTF as possible, and enj
 #### Github Stats 📊
 
 [![CazandoCrypto](https://github-readme-stats.vercel.app/api?username=cazandocrypto)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/cazandocrypto/cazandocrypto/blob/output/github-contribution-grid-snake.svg)
 
 
 
