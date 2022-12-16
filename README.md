@@ -1,7 +1,6 @@
 <h2> Hi there 👋, I'm CazandoCrypto! </h2>
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.1.0
+![Snake animation](https://github.com/DidoCode/DidoCode/blob/output/github-contribution-grid-snake.svg)
 
     
 [![CazandoCrypto YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA](https://www.youtube.com/cazandocrypto))
