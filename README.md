@@ -5,7 +5,7 @@
 
 I'm an avid Smart Contract/Blockchain Software Engineer, Developer Advocate, and content creator.
 
-I'm here to help the world learn to code, solve as many CTF as possible, and enjoy hacking.
+I'm here to help the world learn to code, solve as many CTF as possible, and enjoy while hacking.
 
 
 
