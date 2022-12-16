@@ -13,13 +13,13 @@ I'm here to help the world learn to code, solve as many CTF as possible, and enj
 
 [![CazandoCrypto](https://github-readme-stats.vercel.app/api?username=cazandocrypto)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cazandocrypto)](https://github.com/cazandocrypto/github-readme-stats)
-
 #### Contributions
 
 ![Snake animation](https://github.com/cazandocrypto/cazandocrypto/blob/output/github-contribution-grid-snake.svg)
+
+#### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cazandocrypto)](https://github.com/cazandocrypto/github-readme-stats)
 
 
 
