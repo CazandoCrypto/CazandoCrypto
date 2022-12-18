@@ -11,7 +11,7 @@ I'm here to help the world learn to code, solve as many CTF as possible, and enj
 
 #### Github Stats 📊
 
-[![CazandoCrypto](https://github-readme-stats.vercel.app/api?username=cazandocrypto)](https://github.com/anuraghazra/github-readme-stats)
+[![CazandoCrypto](https://github-readme-stats.vercel.app/api?username=cazandocrypto)](https://github.com/cazandocrypto/github-readme-stats)
 
 #### Contributions
 
